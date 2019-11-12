@@ -35,17 +35,16 @@ def consolidate_cart(cart)
  result
 end
 
+
+
+
 def apply_coupons(cart, coupons)
   # Consult README for inputs and outputs
   #
   # REMEMBER: This method **should** update cart
   
-  result = []
-  i = 0 
   
-  while i < cart.count do
-    
-  end
+  
 end
 
 def apply_clearance(cart)
